@@ -14,7 +14,7 @@ public class Sample
         
         //this calculates the answer by adding the a and b variable together
         answer = a + b;
-        
+        //test
         System.out.println("" + a + " + " + b + " = " + answer);
         
     }
